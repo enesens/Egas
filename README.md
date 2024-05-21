@@ -19,3 +19,10 @@ Github: https://github.com/vaamonde/ubuntu-2204/blob/main/03-services/06-tomcat-
 Youtube: https://www.youtube.com/watch?v=TcC7cijfub0
 
 Usuario do servidor egas = egas senha = dust@2024
+
+
+Para instalação do java seguir os comandos
+
+sudo apt-get -y install default-jre default-jdk
+
+para configurar o java seguir o link https://www.edivaldobrito.com.br/como-instalar-o-java-no-ubuntu-24-04-lts-e-derivados/
