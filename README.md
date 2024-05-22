@@ -37,5 +37,6 @@ ir para diretorio tmp cd /tmp
 sudo wget https://dlcdn.apache.org/tomee/tomee-9.1.3/apache-tomee-9.1.3-plume.tar.gz \
 depois descomprimir o aquivo tar -xzvf apache-tomee-9.1.3-plume.tar.gz \
 
-Criar uma pasta dentro de tomcat
+Criar uma pasta dentro de /opt com nome tomcat \
+sudo mkdir /opt/tomcat
 
