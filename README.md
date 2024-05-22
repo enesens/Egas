@@ -5,8 +5,8 @@ Repositorio para instalação do egas
 Após instalação rodar os seguintes comandos
 
 • sudo apt-get -y update \
-• sudo apt-get -y upgrade 
-• sudo apt-get -y install wget net-tools iputils-ping nano unzip
+• sudo apt-get -y upgrade \
+• sudo apt-get -y install wget net-tools iputils-ping nano unzip\
 • sudo apt-get -y install default-jre default-jdk
 
 Instalação do Twingate via terminal seguir o seguinte tutorial: \
