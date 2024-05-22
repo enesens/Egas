@@ -6,6 +6,8 @@ Após instalação rodar os seguintes comandos
 
 • sudo apt-get -y update \
 • sudo apt-get -y upgrade 
+• sudo apt-get -y install wget net-tools iputils-ping nano unzip
+• sudo apt-get -y install default-jre default-jdk
 
 Instalação do Twingate via terminal seguir o seguinte tutorial: \
 https://www.twingate.com/docs/linux#installation-and-setup \
@@ -29,4 +31,11 @@ para configurar o java seguir o link https://www.edivaldobrito.com.br/como-insta
 
 endereço atual do servidor 192.168.15.4
 
+**Download do tomee 9.1.3**
+ir para diretorio tmp cd /tmp
+
+sudo wget https://dlcdn.apache.org/tomee/tomee-9.1.3/apache-tomee-9.1.3-plume.tar.gz
+depois descomprimir o aquivo tar -xzvf apache-tomee-9.1.3-plume.tar.gz
+
+Criar uma pasta dentro de tomcat
 
